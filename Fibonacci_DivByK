@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int f1=0,f2=1,f3,i,k,n;
+    int f1=0,f2=1,f3,k,n;
     
     cout<<"Enter the value for n and k"<<endl;
     cin>>n>>k;
